@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![profile count](https://komarev.com/ghpvc/?username=jflatorreg&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/jflatorreg?label=follow&style=social)](https://github.com/jflatorreg)&nbsp;
