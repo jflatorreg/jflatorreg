@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![version :2021.04.24](https://img.shields.io/badge/version-2021.04.24-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=jflatorreg&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/jflatorreg?label=follow&style=social)](https://github.com/jflatorreg)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
