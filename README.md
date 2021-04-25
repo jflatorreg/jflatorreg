@@ -1,6 +1,7 @@
 <div align="center">
 
-### Hi there 👋
+# **Welcome**
+
 
 
 I'm a **physicist** from the **Universidad Nacional de Colombia**. I'm interested in **Machine Learning** and **Deep learning** techniques. I also do research in **bioacoustics**.
@@ -12,7 +13,8 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/jflatorreg?label=follow&style=social)](https://github.com/jflatorreg)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-
+---
+### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jflatorreg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
