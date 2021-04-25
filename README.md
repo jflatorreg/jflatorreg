@@ -6,7 +6,7 @@
 
 I'm a **physicist** from the **Universidad Nacional de Colombia**. I'm interested in **Machine Learning** and **Deep learning** techniques. I also do research in **bioacoustics**.
 
-I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https://github.com/scikit-maad/scikit-maad](https://github.com/scikit-maad/scikit-maad)).
+I contribute to the development of the [maad](https://scikit-maad.github.io/) Python package.
 
 ![version :2021.04.24](https://img.shields.io/badge/version-2021.04.24-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=jflatorreg&color=red)&nbsp;
