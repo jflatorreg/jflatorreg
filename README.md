@@ -13,8 +13,8 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/jflatorreg?label=follow&style=social)](https://github.com/jflatorreg)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
----
-### Stats
+--
+## Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jflatorreg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
@@ -23,8 +23,8 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jflatorreg&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jflatorreg's Github Stats">
 
----
-### Tech Stack
+--
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -43,8 +43,8 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 ![R](https://img.shields.io/badge/R%20-%23013243.svg?&style=flat&logo=r&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder%20-%23013243.svg?&style=flat&logo=spyder-ide&logoColor=white)
 
----
-### Follow Me:
+--
+## Follow Me:
 
 <a href="https://www.linkedin.com/in/jflatorreg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/juanfelg" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
