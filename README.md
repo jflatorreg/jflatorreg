@@ -16,21 +16,27 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jflatorreg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jflatorreg&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jflatorreg's Github Stats">
 
 ---
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![SciPy](https://img.shields.io/badge/SciPy%20-%23013243.svg?&style=flat&logo=SciPy&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas%20-%23013243.svg?&style=flat&logo=Pandas&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn%20-%23013243.svg?&style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23013243.svg?&style=flat&logo=TensorFlow&logoColor=white)
+![keras](https://img.shields.io/badge/Keras%20-%23013243.svg?&style=flat&logo=keras&logoColor=white)
+![R](https://img.shields.io/badge/R%20-%23013243.svg?&style=flat&logo=r&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda%20-%23013243.svg?&style=flat&logo=Anaconda&logoColor=white)
 
 ---
 ### Follow me around the web:
