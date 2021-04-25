@@ -16,12 +16,13 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jflatorreg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-
+---
+###
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jflatorreg&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jflatorreg's Github Stats">
 
 ---
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -35,11 +36,13 @@ I work on the development [maad](https://scikit-maad.github.io/) toolbox ([https
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn%20-%23013243.svg?&style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23013243.svg?&style=flat&logo=TensorFlow&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras%20-%23013243.svg?&style=flat&logo=keras&logoColor=white)
-![R](https://img.shields.io/badge/R%20-%23013243.svg?&style=flat&logo=r&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda%20-%23013243.svg?&style=flat&logo=Anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23013243.svg?&style=flat&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/R%20-%23013243.svg?&style=flat&logo=r&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder%20-%23013243.svg?&style=flat&logo=spyder-ide&logoColor=white)
 
 ---
-### Follow me around the web:
+### Follow me:
 
 <a href="https://www.linkedin.com/in/jflatorreg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/juanfelg" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
